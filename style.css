@@ -1,0 +1,17 @@
+#countLabel {
+    display: block; /* Sets the display property to "block," making the element a block-level element. */
+    text-align: center; /* Centers the text within the element horizontally. */
+    font-size: 50px; /* Sets the font size of the text inside the element to 50 pixels. */
+}
+
+#increaseBtn {
+    background-color: cornflowerblue; /* Sets the background color of the 'increaseBtn' button to cornflower blue. */
+    display: block; /* Sets the display property to "block," making the element a block-level element. */
+    margin: auto; /* Centers the button horizontally within its container. */
+}
+
+#decreaseBtn {
+    background-color: lightcoral; /* Sets the background color of the 'decreaseBtn' button to light coral. */
+    display: block; /* Sets the display property to "block," making the element a block-level element. */
+    margin: auto; /* Centers the button horizontally within its container. */
+}
